@@ -11,6 +11,15 @@ this.nombre=nombre;
 
 
 }
+// metodos
+public int getNm(){
+return nm;
+ }
+public String getNombre(){
+return nombre;
 
-
+ }
+ public String toString(){
+ return "Alumno[nm="+nm+", nombre=+nombr`+"];
+ }
 }
