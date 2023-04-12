@@ -5,7 +5,7 @@ private int nm;
 private String nombre;
 
 //constructor
-public Alumno(int nm,String nombre){
+public Alumnos(int nm, String nombre){
 this.nm=nm;
 this.nombre=nombre;
 
